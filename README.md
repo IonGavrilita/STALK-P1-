@@ -32,8 +32,8 @@ In the stock page, you'll find a search bar where the user can type in a company
 * https://rapidapi.com/marketplace - stock API key (Cloud.iexapis.com)
 
 ### Directory:
-* GitHub Link: https://github.com/lillianhuynh/STALK.git
-* App Link: https://lillianhuynh.github.io/STALK/
+* GitHub Link: https://github.com/IonGavrilita/STALK-P1-
+* App Link: https://iongavrilita.github.io/STALK-P1-/
 
 ### Contributing:
 * Name: Lilian Huynh
